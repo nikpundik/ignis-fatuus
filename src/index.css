@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  cursor: none !important;
+  box-sizing: content-box;
+}
+
+body {
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+button {
+  padding: 20px;
+  border: 0px solid black;
+  border-radius: 4px;
+  background-color: black;
+}
